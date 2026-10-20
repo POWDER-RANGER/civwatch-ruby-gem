@@ -50,6 +50,10 @@ Remote service access should use HTTPS and each owning service's documented auth
 - [Cell Titan](https://github.com/POWDER-RANGER/civwatch-cell-titan)
 - [CIVWATCH App](https://github.com/POWDER-RANGER/civwatch-app)
 
+## Documentation standard
+
+Follow the [CIVWATCH Documentation Standard](https://github.com/POWDER-RANGER/CivilianIntelligence/blob/main/docs/DOCUMENTATION_STANDARD.md) for attribution, generated artifacts, historical-status wording, and source/licence provenance.
+
 ## License
 
 MIT
